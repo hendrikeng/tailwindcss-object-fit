@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-object-fit",
+  "version": "1.0.0",
+  "description": "Generate utility classes for object-fit properties",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendrikeng/tailwindcss-object-fit.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwind css",
+    "tailwindcss-plugin",
+    "plugin",
+    "object-fit",
+    "images"
+  ],
+  "author": "Hendrik Werner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hendrikeng/tailwindcss-object-fit/issues"
+  },
+  "homepage": "https://github.com/hendrikeng/tailwindcss-object-fit#readme"
+}
